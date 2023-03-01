@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="535.00031"
-   height="463.32443"
-   viewBox="0 0 535.0003 463.32443"
+   width="535.00067"
+   height="541.37988"
+   viewBox="0 0 535.00067 541.37988"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="nixos-cn.svg"
+   sodipodi:docname="nixos-cn-人4.svg"
    inkscape:export-filename="nixos-cn-1024x1024.png"
    inkscape:export-xdpi="183.7455"
    inkscape:export-ydpi="183.7455"
@@ -29,21 +29,21 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="129"
-     inkscape:cy="278"
+     inkscape:cx="39"
+     inkscape:cy="258"
      inkscape:window-width="1128"
      inkscape:window-height="683"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="g18402" />
   <defs
      id="defs2" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="logo"
-     transform="translate(31.491914,11.864368)"
+     transform="translate(31.492091,50.892088)"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -105,16 +105,39 @@
      id="layer4"
      inkscape:label="single-part "
      style="display:none"
-     transform="translate(31.491914,11.864368)">
+     transform="translate(31.492091,50.892088)">
     <g
        id="g18402"
        inkscape:label="part">
       <path
          id="path248"
+         style="display:none;fill-opacity:1"
+         inkscape:label="reference-main"
+         d="m 216.49442,-11.864368 -82.66211,143.175778 -165.324224,2.2e-4 31.57409162,54.687 H 165.40609 L 248.06864,42.823122 Z"
+         sodipodi:nodetypes="ccccccc"
+         sodipodi:insensitive="true" />
+      <ellipse
+         style="display:none;fill:#981616;fill-opacity:1;stroke:none;stroke-width:1.1264;stroke-opacity:1"
+         id="path22758"
+         cx="165.4059"
+         cy="185.99863"
+         rx="63.147999"
+         ry="63.148186"
+         inkscape:label="reference-circle"
+         sodipodi:insensitive="true" />
+      <path
+         id="path26197"
          style="display:inline;fill-opacity:1"
          inkscape:label="main"
-         d="M 216.49442,-11.864368 133.83231,131.31141 H -31.491914 L 0.08217762,185.99863 H 165.40653 L 248.06864,42.823122 Z"
-         sodipodi:nodetypes="ccccccc" />
+         d="M 216.49441,-11.864368 133.8323,131.31141 -31.491914,131.31163 0.08230475,185.99891 H 117.16434 c 3.8e-4,-26.64295 21.59923,-48.24093 48.24218,-48.24023 8.46733,0.004 16.78435,2.23743 24.11524,6.47461 L 248.06863,42.823132 Z"
+         sodipodi:nodetypes="ccccccccc" />
+      <circle
+         style="display:inline;fill-opacity:1;stroke:none;stroke-width:1.1264;stroke-opacity:1"
+         id="ellipse28528"
+         cx="165.4059"
+         cy="185.99863"
+         inkscape:label="circle"
+         r="39.027725" />
     </g>
   </g>
 </svg>

@@ -3,12 +3,12 @@
 
 <svg
    width="535.00031"
-   height="463.32443"
-   viewBox="0 0 535.0003 463.32443"
+   height="572.69989"
+   viewBox="0 0 535.0003 572.69989"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="nixos-cn.svg"
+   sodipodi:docname="nixos-cn-人2.svg"
    inkscape:export-filename="nixos-cn-1024x1024.png"
    inkscape:export-xdpi="183.7455"
    inkscape:export-ydpi="183.7455"
@@ -29,8 +29,8 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="129"
-     inkscape:cy="278"
+     inkscape:cx="85"
+     inkscape:cy="306"
      inkscape:window-width="1128"
      inkscape:window-height="683"
      inkscape:window-x="0"
@@ -43,7 +43,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="logo"
-     transform="translate(31.491914,11.864368)"
+     transform="translate(31.491912,66.552096)"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -105,7 +105,7 @@
      id="layer4"
      inkscape:label="single-part "
      style="display:none"
-     transform="translate(31.491914,11.864368)">
+     transform="translate(31.491912,66.552096)">
     <g
        id="g18402"
        inkscape:label="part">
@@ -113,8 +113,8 @@
          id="path248"
          style="display:inline;fill-opacity:1"
          inkscape:label="main"
-         d="M 216.49442,-11.864368 133.83231,131.31141 H -31.491914 L 0.08217762,185.99863 H 165.40653 L 248.06864,42.823122 Z"
-         sodipodi:nodetypes="ccccccc" />
+         d="M 216.49442,-11.864368 133.83209,131.31141 H -31.491914 L 0.08217762,185.99863 H 102.25809 l 31.574,54.68773 114.23655,-197.863238 z"
+         sodipodi:nodetypes="cccccccc" />
     </g>
   </g>
 </svg>
