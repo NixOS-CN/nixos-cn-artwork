@@ -2,7 +2,7 @@
 
 ![NixOS CN Logo](./nixos-cn.svg)
 
-Designed by [OpenTritium](https://github.com/OpenTritium). Drew by [linyinfeng](https://github.com/linyinfeng).
+Designed by [OpenTritium](https://github.com/OpenTritium) and [linyinfeng](https://github.com/linyinfeng). Drew by [linyinfeng](https://github.com/linyinfeng).
 
 ## License
 
