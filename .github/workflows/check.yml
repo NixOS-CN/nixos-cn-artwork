@@ -1,0 +1,22 @@
+name: "Nix flake check"
+on:
+  pull_request:
+  push:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    - name: Install nix
+      uses: cachix/install-nix-action@v20
+      with:
+        github_access_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Setup cachix
+      uses: cachix/cachix-action@v12
+      with:
+        name: nixos-cn
+        signingKey: '${{ secrets.CACHIX_SIGNING_KEY }}'
+    - name: Nix flake check
+      run: nix flake check --verbose --print-build-logs
