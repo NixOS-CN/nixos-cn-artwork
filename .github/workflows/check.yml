@@ -10,7 +10,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
     - name: Install nix
-      uses: cachix/install-nix-action@v25
+      uses: cachix/install-nix-action@v26
       with:
         github_access_token: ${{ secrets.GITHUB_TOKEN }}
     - name: Setup cachix
